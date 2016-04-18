@@ -1,0 +1,13 @@
+{
+  "name": "setKind",
+  "version": "1.0.0",
+  "main": "js/src/setKind",
+  "dependencies": {
+    "setType": "aleclarson/setType#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
