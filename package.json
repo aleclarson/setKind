@@ -1,14 +1,11 @@
 {
   "name": "setKind",
   "version": "1.0.0",
-  "main": "js/src/setKind",
+  "main": "setKind.js",
+  "plugins": [
+    "lotus-runner"
+  ],
   "dependencies": {
     "setType": "aleclarson/setType#1.0.0"
-  },
-  "lotus": {
-    "plugins": [
-      "lotus-coffee",
-      "lotus-runner"
-    ]
   }
 }
