@@ -1,0 +1,11 @@
+{
+  "name": "setKind",
+  "version": "1.0.0",
+  "main": "setKind.js",
+  "plugins": [
+    "lotus-runner"
+  ],
+  "dependencies": {
+    "setType": "aleclarson/setType#1.0.0"
+  }
+}
